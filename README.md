@@ -1,6 +1,6 @@
 # Click to Chat
 
-Discussion, Issues, Ideas, ..
+Support, Discussion, Issues, Ideas, ..
 
 WordPress Plugin [Click-to-Chat](https://wordpress.org/plugins/click-to-chat-for-whatsapp/)
 
